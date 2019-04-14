@@ -1,2 +1,2 @@
 # React-Freecodecamp
-solution for React test from freecodecamp website 
+solution for React tests from freecodecamp website 
